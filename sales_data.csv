@@ -1,0 +1,121 @@
+Date,Product,Category,Units_Sold,Unit_Price,Region,Stock_Available
+2025-01-01,Nescafe,Beverages,65,10,North,134
+2025-01-02,Maggi,Food,208,5,East,265
+2025-01-03,KitKat,Snacks,279,8,East,344
+2025-01-04,Maggi,Food,212,5,North,402
+2025-01-05,Maggi,Food,192,5,South,411
+2025-01-06,Nescafe,Beverages,176,10,South,499
+2025-01-07,Maggi,Food,98,5,South,225
+2025-01-08,KitKat,Snacks,290,8,South,265
+2025-01-09,Cerelac,Baby Food,127,15,East,325
+2025-01-10,Maggi,Food,217,5,East,155
+2025-01-11,Milkmaid,Dairy,78,12,North,478
+2025-01-12,Nescafe,Beverages,71,10,North,357
+2025-01-13,Nescafe,Beverages,83,10,West,375
+2025-01-14,Nescafe,Beverages,246,10,East,347
+2025-01-15,Milkmaid,Dairy,184,12,East,203
+2025-01-16,KitKat,Snacks,280,8,North,401
+2025-01-17,Maggi,Food,83,5,South,337
+2025-01-18,Maggi,Food,96,5,West,279
+2025-01-19,Maggi,Food,56,5,South,303
+2025-01-20,Milkmaid,Dairy,256,12,East,424
+2025-01-21,KitKat,Snacks,67,8,South,286
+2025-01-22,Nescafe,Beverages,256,10,West,220
+2025-01-23,Cerelac,Baby Food,293,15,East,248
+2025-01-24,KitKat,Snacks,76,8,West,440
+2025-01-25,Cerelac,Baby Food,90,15,West,142
+2025-01-26,Maggi,Food,64,5,South,439
+2025-01-27,Milkmaid,Dairy,90,12,West,252
+2025-01-28,Nescafe,Beverages,94,10,East,451
+2025-01-29,Cerelac,Baby Food,252,15,North,474
+2025-01-30,Nescafe,Beverages,270,10,South,364
+2025-01-31,Milkmaid,Dairy,152,12,North,51
+2025-02-01,Cerelac,Baby Food,107,15,North,292
+2025-02-02,Cerelac,Baby Food,159,15,East,365
+2025-02-03,Milkmaid,Dairy,106,12,North,62
+2025-02-04,Nescafe,Beverages,172,10,North,153
+2025-02-05,Maggi,Food,168,5,South,91
+2025-02-06,Maggi,Food,296,5,East,298
+2025-02-07,Milkmaid,Dairy,58,12,East,407
+2025-02-08,KitKat,Snacks,147,8,East,163
+2025-02-09,Milkmaid,Dairy,271,12,North,363
+2025-02-10,Maggi,Food,58,5,East,102
+2025-02-11,Milkmaid,Dairy,253,12,East,392
+2025-02-12,Maggi,Food,196,5,West,257
+2025-02-13,Cerelac,Baby Food,83,15,East,119
+2025-02-14,Maggi,Food,187,5,East,378
+2025-02-15,KitKat,Snacks,67,8,East,359
+2025-02-16,Maggi,Food,245,5,East,359
+2025-02-17,KitKat,Snacks,79,8,West,70
+2025-02-18,Maggi,Food,116,5,North,484
+2025-02-19,Milkmaid,Dairy,149,12,East,338
+2025-02-20,Cerelac,Baby Food,120,15,North,74
+2025-02-21,Milkmaid,Dairy,152,12,West,202
+2025-02-22,KitKat,Snacks,154,8,East,282
+2025-02-23,Maggi,Food,98,5,West,407
+2025-02-24,Maggi,Food,94,5,West,395
+2025-02-25,Maggi,Food,182,5,East,469
+2025-02-26,KitKat,Snacks,75,8,South,246
+2025-02-27,Nescafe,Beverages,261,10,West,158
+2025-02-28,Maggi,Food,68,5,East,449
+2025-03-01,Maggi,Food,157,5,North,124
+2025-03-02,KitKat,Snacks,92,8,South,207
+2025-03-03,Nescafe,Beverages,132,10,North,63
+2025-03-04,Maggi,Food,267,5,East,467
+2025-03-05,Maggi,Food,226,5,South,482
+2025-03-06,Cerelac,Baby Food,141,15,West,151
+2025-03-07,Maggi,Food,284,5,West,94
+2025-03-08,Milkmaid,Dairy,209,12,West,110
+2025-03-09,Maggi,Food,108,5,South,150
+2025-03-10,Nescafe,Beverages,82,10,West,120
+2025-03-11,Maggi,Food,142,5,West,288
+2025-03-12,Cerelac,Baby Food,191,15,South,229
+2025-03-13,Milkmaid,Dairy,252,12,South,434
+2025-03-14,KitKat,Snacks,102,8,East,385
+2025-03-15,Milkmaid,Dairy,285,12,East,206
+2025-03-16,Maggi,Food,171,5,North,492
+2025-03-17,Maggi,Food,74,5,East,347
+2025-03-18,Cerelac,Baby Food,120,15,South,82
+2025-03-19,Nescafe,Beverages,205,10,North,284
+2025-03-20,Maggi,Food,218,5,North,175
+2025-03-21,Nescafe,Beverages,251,10,North,394
+2025-03-22,Nescafe,Beverages,140,10,East,105
+2025-03-23,Milkmaid,Dairy,102,12,East,98
+2025-03-24,Maggi,Food,232,5,South,224
+2025-03-25,Maggi,Food,217,5,East,154
+2025-03-26,Cerelac,Baby Food,263,15,South,262
+2025-03-27,Cerelac,Baby Food,114,15,North,400
+2025-03-28,Maggi,Food,197,5,East,279
+2025-03-29,Nescafe,Beverages,277,10,South,62
+2025-03-30,Nescafe,Beverages,137,10,South,487
+2025-03-31,Cerelac,Baby Food,98,15,South,430
+2025-04-01,Maggi,Food,186,5,South,193
+2025-04-02,Maggi,Food,201,5,West,241
+2025-04-03,KitKat,Snacks,188,8,North,425
+2025-04-04,Nescafe,Beverages,113,10,North,204
+2025-04-05,Maggi,Food,244,5,South,131
+2025-04-06,Maggi,Food,285,5,West,198
+2025-04-07,KitKat,Snacks,232,8,North,484
+2025-04-08,KitKat,Snacks,164,8,South,154
+2025-04-09,Cerelac,Baby Food,139,15,West,413
+2025-04-10,Nescafe,Beverages,179,10,South,200
+2025-04-11,KitKat,Snacks,216,8,North,76
+2025-04-12,Nescafe,Beverages,55,10,West,189
+2025-04-13,Milkmaid,Dairy,61,12,East,491
+2025-04-14,Maggi,Food,75,5,North,324
+2025-04-15,Maggi,Food,137,5,North,262
+2025-04-16,Nescafe,Beverages,224,10,West,443
+2025-04-17,KitKat,Snacks,53,8,South,55
+2025-04-18,Milkmaid,Dairy,154,12,West,254
+2025-04-19,Maggi,Food,257,5,East,92
+2025-04-20,Cerelac,Baby Food,258,15,East,159
+2025-04-21,KitKat,Snacks,70,8,North,416
+2025-04-22,Cerelac,Baby Food,50,15,West,312
+2025-04-23,Nescafe,Beverages,80,10,South,223
+2025-04-24,Maggi,Food,117,5,North,365
+2025-04-25,Nescafe,Beverages,66,10,North,476
+2025-04-26,Maggi,Food,256,5,South,90
+2025-04-27,Cerelac,Baby Food,295,15,North,487
+2025-04-28,Nescafe,Beverages,101,10,West,152
+2025-04-29,Nescafe,Beverages,219,10,South,490
+2025-04-30,Milkmaid,Dairy,264,12,North,464
